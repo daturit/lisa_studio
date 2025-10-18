@@ -1,6 +1,6 @@
 # Privacy Policy
 
-The Lisa Studio team has adopted this Privacy Policy to explain how Lisa Studio collects, stores, and uses the information collected in connection with its services, including mobile applications, websites, and related products and services (collectively referred to as the “Services”).
+The Bao Vy team has adopted this Privacy Policy to explain how Bao Vy collects, stores, and uses the information collected in connection with its services, including mobile applications, websites, and related products and services (collectively referred to as the “Services”).
 
 ---
 
@@ -8,13 +8,13 @@ The Lisa Studio team has adopted this Privacy Policy to explain how Lisa Studio 
 
 **BY INSTALLING, USING, REGISTERING FOR, OR OTHERWISE ACCESSING THE SERVICES, YOU AGREE TO THIS PRIVACY POLICY AND EXPLICITLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA AS DESCRIBED HEREIN.**  
 If you do not agree with this Privacy Policy, please do not install, use, register for, or otherwise access the Services.  
-Lisa Studio reserves the right to modify this Privacy Policy at reasonable times, with or without notice. Significant changes may be announced via the website or within the app. Continued use of the Services constitutes your acceptance of such changes.
+Bao Vy reserves the right to modify this Privacy Policy at reasonable times, with or without notice. Significant changes may be announced via the website or within the app. Continued use of the Services constitutes your acceptance of such changes.
 
 ---
 
 ## 2. Non-Personal Data
 
-"Non-personal data" refers to information that does not directly identify you. Lisa Studio may collect non-personal data such as:
+"Non-personal data" refers to information that does not directly identify you. Bao Vy may collect non-personal data such as:
 
 - Application name, package name, and app icon  
 - User activity (e.g., likes, recommendations, check-ins)
@@ -27,7 +27,7 @@ You acknowledge that third-party analytics providers may combine the collected d
 ## 3. Personal Data
 
 "Personal data" refers to information that can identify you as an individual.  
-Lisa Studio may collect, but is not limited to:
+Bao Vy may collect, but is not limited to:
 
 - Facebook ID, name, gender, location, and friends’ IDs (if login via Facebook is used)  
 - Game check-ins, likes, dislikes, messages, and recommendations  
@@ -40,9 +40,9 @@ Lisa Studio may collect, but is not limited to:
 - Serve and manage advertisements  
 - Develop new products and features  
 
-Lisa Studio may combine personal and non-personal data for the above purposes.  
+Bao Vy may combine personal and non-personal data for the above purposes.  
 
-In case you connect your social network account, Lisa Studio may access publicly available information from your profile such as:
+In case you connect your social network account, Bao Vy may access publicly available information from your profile such as:
 
 - Name, profile picture, user ID, friends list, email address, country, language, and time zone
 
@@ -50,12 +50,12 @@ In case you connect your social network account, Lisa Studio may access publicly
 
 ## 4. Disclosure & Transfer of Personal Data
 
-Lisa Studio will not sell your personal data. However, your data may be shared:
+Bao Vy will not sell your personal data. However, your data may be shared:
 
 - With parent or subsidiary companies  
-- With contractors and agents working on behalf of Lisa Studio (e.g., analytics, hosting, email services)  
+- With contractors and agents working on behalf of Bao Vy (e.g., analytics, hosting, email services)  
 - As required by law, court order, or in the event of fraud, abuse, or intellectual property violations  
-- With authorities when disclosure is legally required or to protect the rights and safety of users or Lisa Studio  
+- With authorities when disclosure is legally required or to protect the rights and safety of users or Bao Vy  
 
 These partners are contractually bound to use your data only for the specified purposes and must comply with this Privacy Policy.
 
@@ -63,7 +63,7 @@ These partners are contractually bound to use your data only for the specified p
 
 ## 5. Data Security
 
-Lisa Studio applies industry-standard security measures to protect your data:
+Bao Vy applies industry-standard security measures to protect your data:
 
 - Only authorized personnel have access to personal data  
 - Data is stored in secure, firewall-protected environments  
@@ -75,14 +75,14 @@ However, no system is 100% secure, and you accept the inherent risks of online a
 ## 6. Social and Public Features
 
 Be aware that any personal information shared in public forums (e.g., chat rooms, blogs, forums) is publicly accessible and not covered under this Privacy Policy.  
-Lisa Studio is not responsible for information you voluntarily make public.
+Bao Vy is not responsible for information you voluntarily make public.
 
 ---
 
 ## 7. Children's Privacy
 
 If you are under 15 years old (or under the minimum legal age in your jurisdiction), you must obtain parental or legal guardian consent before using the Services.  
-Lisa Studio does not knowingly collect personal data from children without parental consent. If such data is discovered, it will be deleted promptly.
+Bao Vy does not knowingly collect personal data from children without parental consent. If such data is discovered, it will be deleted promptly.
 
 ---
 
@@ -102,7 +102,7 @@ This Privacy Policy will continue to govern the use of such data unless otherwis
 
 ## 10. Complaints and Disputes
 
-Lisa Studio regularly reviews compliance with this Privacy Policy.  
+Bao Vy regularly reviews compliance with this Privacy Policy.  
 If you have a complaint or concern, we will attempt to resolve it directly. We will also cooperate with data protection authorities to address any unresolved issues.
 
 ---
